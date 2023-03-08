@@ -1,4 +1,3 @@
-## Name : Shweta Shete, Red id: 825897742 ##
 
 from visitor import Visitor
 from abc import ABC, abstractmethod
